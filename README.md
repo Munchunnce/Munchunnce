@@ -6,7 +6,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/vimalku42724943" target="blank"><img src="https://img.shields.io/twitter/follow/@vimalku42724943?logo=twitter&style=for-the-badge" alt="@vimalku42724943" /></a> </p>
+<p align="left"> <a href="https://twitter.com/vimalku42724943" target="blank"><img src="https://img.shields.io/twitter/follow/vimalku42724943?logo=twitter&style=for-the-badge" alt="@vimalku42724943" /></a> </p>
 
 - 💬 Ask me about **web development, real-time apps, and JavaScript frameworks**
 
@@ -14,8 +14,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@vimalku42724943" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vimalku42724943" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/vimal-kumar-chaudhary-7890961a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/vimal-kumar-chaudhary-7890961a6" height="30" width="40" /></a>
+<a href="https://twitter.com/vimalku42724943" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@vimalku42724943" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vimal-kumar-chaudhary-7890961a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/vimal-kumar-chaudhary-7890961a6" height="30" width="40" /></a>
 <a href="https://instagram.com/chaudhary.vimalkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chaudhary.vimalkumar" height="30" width="40" /></a>
 </p>
 
